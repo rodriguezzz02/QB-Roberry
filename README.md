@@ -1,7 +1,7 @@
 
 ---
 
-🚨 qb-robbery
+🚨 QB-ROBBERY
 
 Script de robos avanzado para servidores QBCore (FiveM) con soporte para ox_lib y qb-target.
 
@@ -19,7 +19,7 @@ Todo es 100% configurable desde config.lua.
 
 ---
 
-📌 Características principales
+## 📌 Características principales
 
 ✅ Integración con qb-target (no requiere configuración manual).
 ✅ Soporte de ox_lib para notificaciones y progressbars.
@@ -50,7 +50,7 @@ Todo es 100% configurable desde config.lua.
 
 ---
 
-📂 Archivos principales
+## 📂 Archivos principales
 
 fxmanifest.lua → Metadata del recurso.
 
@@ -64,7 +64,7 @@ server.lua → Lógica de loot, cooldowns y recompensas.
 
 ---
 
-⚙️ Configuración
+## ⚙️ Configuración
 
 Items requeridos
 
@@ -81,7 +81,7 @@ goldiron, diamond, bate, weed, coke, weapon_pistol, ammo_pistol, etc.
 Item de blackmoney si lo usas (ejemplo: markedbills).
 
 ```
-⚙️ Ejemplo de configuración
+## ⚙️ Ejemplo de configuración
 
 ```
 Spots (tiendas)
@@ -156,9 +156,9 @@ InteractSound (opcional, para sonidos al romper cajas).
 
 ---
 
-🚀 Instalación
+## 🚀 Instalación
 
-1. Descarga y coloca el recurso en tu carpeta resources/[qb].
+1. Descarga y coloca el recurso en tu carpeta resources/.
 
 
 2. Asegúrate de tener todas las dependencias instaladas.
@@ -176,7 +176,6 @@ ensure qb-core
 ensure ox_lib
 ensure drillingminigame
 ensure qb-robbery
-
 ```
 
 
