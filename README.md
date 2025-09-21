@@ -36,12 +36,17 @@ Todo es 100% configurable desde config.lua.
 
 
 ✅ Cooldowns personalizables por cada tipo de robo.
+-
 ✅ Loot configurable con chance (%), cantidad mínima y máxima.
+-
 ✅ Recompensas en dinero (cash) o blackmoney (item personalizado).
+-
 ✅ Props visibles en el mundo para las cajas físicas, que desaparecen al ser robadas y reaparecen automáticamente tras el cooldown.
+-
 ✅ Animaciones y props realistas (destornillador, taladro, palanca).
+-
 ✅ Soporte de sonidos (InteractSound) para feedback al romper cajas.
-
+-
 
 ---
 
@@ -166,10 +171,13 @@ InteractSound (opcional, para sonidos al romper cajas).
 
 
 5. Añade el recurso a tu server.cfg:
-
+```
+ensure qb-core
+ensure ox_lib
+ensure drillingminigame
 ensure qb-robbery
 
-
+```
 
 
 ---
