@@ -64,7 +64,7 @@ server.lua → Lógica de loot, cooldowns y recompensas.
 Items requeridos
 
 Asegúrate de tener en tu qb-core/shared/items.lua los siguientes ítems (o los que configures):
-
+```
 lockpick
 
 drill
@@ -75,8 +75,8 @@ goldiron, diamond, bate, weed, coke, weapon_pistol, ammo_pistol, etc.
 
 Item de blackmoney si lo usas (ejemplo: markedbills).
 
-
-Ejemplo de configuración
+```
+⚙️ Ejemplo de configuración
 
 ```
 Spots (tiendas)
@@ -141,7 +141,7 @@ Crates → Config.CrateCooldown (ejemplo: 15 min, y reaparecen automáticamente 
 
 🎮 Dependencias
 
-qb-core
+[qb-core](https://github.com/qbcore-framework/qb-core)
 
 qb-target
 
