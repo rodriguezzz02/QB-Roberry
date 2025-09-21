@@ -78,6 +78,7 @@ Item de blackmoney si lo usas (ejemplo: markedbills).
 
 Ejemplo de configuración
 
+```
 Spots (tiendas)
 
 ["store1"] = {
@@ -123,7 +124,7 @@ Crates (cajas físicas)
     }
 }
 
-
+```
 ---
 
 🔄 Cooldowns
