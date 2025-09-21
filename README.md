@@ -189,7 +189,10 @@ Los qb-target se crean automáticamente al iniciar el recurso.
 
 Las cajas (props) desaparecen al romperse y reaparecen solas cuando termina el cooldown.
 
+⚠️ Proyecto funcional con todo lo comentado anteriormente, pero que aún sigue en desarrollo.
 
+
+Author: Rodriguez22/FaxKex
 
 ---
 
