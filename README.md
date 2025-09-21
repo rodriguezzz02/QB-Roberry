@@ -138,14 +138,10 @@ Crates → Config.CrateCooldown (ejemplo: 15 min, y reaparecen automáticamente 
 
 
 ---
-
-🎮 Dependencias
-
-[qb-core](https://github.com/qbcore-framework/qb-core)
-
-qb-target
-
-ox_lib
+## 🔗 Dependencias
+- [qb-core](https://github.com/qbcore-framework/qb-core)  
+- [qb-target](https://github.com/qbcore-framework/qb-target)  
+- [ox_lib](https://github.com/overextended/ox_lib)
 
 drilling (minijuego de taladro)
 
