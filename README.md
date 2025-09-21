@@ -68,7 +68,7 @@ server.lua → Lógica de loot, cooldowns y recompensas.
 
 Items requeridos
 
-Asegúrate de tener en tu qb-core/shared/items.lua los siguientes ítems (o los que configures):
+Asegúrate de tener en tu qb-core/shared/items.lua los siguientes ítems (o los que configures en el config.lua):
 ```
 lockpick
 
