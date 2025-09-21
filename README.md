@@ -1,7 +1,7 @@
 
 ---
 
-🚨 QB-ROBBERY
+## 🚨 QB-ROBBERY
 
 Script de robos avanzado para servidores QBCore (FiveM) con soporte para ox_lib y qb-target.
 
